@@ -1,11 +1,11 @@
 # Project: HabitTracker
 
 ## Table of Contents
-1. [General Info](##GeneralInfo)
-2. [Installation](##Installation)
-3. [Usage](##Usage)
-4. [Contributing](##Contributing)
-5. [License](##License)
+1. [General Info](##-General-Info)
+2. [Installation](##-Installation)
+3. [Usage](##-Usage)
+4. [Contributing](##-Contributing)
+5. [License](##-License)
 
 ## General Info
 This HabitTracker helps you to keep track of activities you choose to track. The program was developed as part of a university project (B.Sc. Data Science). 
