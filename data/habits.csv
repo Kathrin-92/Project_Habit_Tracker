@@ -1,0 +1,10 @@
+habit_name,owner,category,periodicity,datetime_of_creation
+Yoga,testuser1,Health,Weekly,2021-07-26 18:18:00.915870
+Walking,testuser1,Health,Daily,2021-07-26 18:18:00.917624
+Drawing,testuser1,Fun,Weekly,2021-07-26 18:18:00.918832
+Singing,testuser1,Fun,Daily,2021-07-26 18:18:00.919895
+Meditation,testuser1,Mindfulness,Weekly,2021-07-26 18:18:00.920743
+Journaling,testuser1,Mindfulness,Daily,2021-07-26 18:18:00.921622
+Walking,testuser2,Health,Daily,2021-07-26 21:17:04.185686
+Meditation,testuser2,Mindfulness,Daily,2021-07-26 21:17:04.188737
+Jogging,testuser2,Health,Weekly,2021-07-26 21:17:39.010168
