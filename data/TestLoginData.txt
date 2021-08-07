@@ -1,0 +1,7 @@
+Login data for testuser and testdata
+
+username: testuser1
+password: 1234
+
+username: testuser2
+password: 1234
