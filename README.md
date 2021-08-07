@@ -14,10 +14,12 @@ The app enables you to integrate positive, mindful habits in your daily life and
 
 ## Installation
 
+Requirements:   Python 3.7+
+Req. Package:   questionary (install via "pip install questionary")
 
 ## Usage
 
-
+For test usage please refer to the available data in the "data" folder. 
 
 ## Contributing 
 This is my first Python project. Your comments, suggestions, and contributions are welcome. 
