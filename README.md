@@ -20,7 +20,7 @@ Python 3.7+
 
 **Req. Package:**
 &nbsp;
-* [questionary] (https://github.com/tmbo/questionary) (install via "pip install questionary")
+* [questionary](https://github.com/tmbo/questionary) (install via "pip install questionary")
 * xxxx
 
 ## Usage and Main Functionalities
