@@ -37,6 +37,8 @@ To run the tests, download all files incl. the folder "test" onto your computer.
 
 *For test usage please refer to the available data in the "data" folder or download the given main_db.db file.*
 
+*Access documentation through Python's built-in help() function to get more information on the functionalities of the program.*
+
 #### 0. Register
 
 * Possibility to create a user profile. 
