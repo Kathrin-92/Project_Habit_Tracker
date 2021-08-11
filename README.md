@@ -22,7 +22,7 @@ Make sure you have Python 3.7+ installed on your computer. You can download the 
 
 **Req. Package to run the tests:** 
 * [freezegun](https://pypi.org/project/freezegun/) (install via "pip install freezegun")
-* [pytest]() (install via "pip install -U pytest")
+* [pytest](https://docs.pytest.org/en/6.2.x/#) (install via "pip install -U pytest")
 
 **How To:**<br>
 After you've successfully installed Python, open your Mac, Windows or Linux Terminal. Now you have to install questionary. To do so, type "pip install questionary" into the console. The package will install itself. After you've installed questionary, you can start running the program. Download the files "Habit.py", "initialisation.py", "main.py" and "User.py" and save them in a folder on your computer. Now type the following - replace the placeholders with your personal file path - into your Terminal: "Python filepath/foldername/main.py". You've successfully launched the program! Have fun! 
